@@ -1,0 +1,22 @@
+﻿selector1, selector2 {
+    Definicion de estilos;
+}
+
+p {
+    font-family: tahoma;
+}
+
+p{
+    color: #ff0000;
+}
+
+p {
+    font-family: tahoma;
+    color: #ff0000;
+    text-align:center;
+}
+
+p, h1 {
+    font-family: tahoma;
+    color: #ff0000;
+    text-align:center;
